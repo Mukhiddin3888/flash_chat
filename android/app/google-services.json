@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354236644783",
+    "project_id": "causal-fort-305012",
+    "storage_bucket": "causal-fort-305012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354236644783:android:c0762fa7deb40322cd035a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_desktop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354236644783-o8rn8i9uti7ethifbmd45kcddvlg4eqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ8YLn_ZWbdjvn46XGAs2aJgnqiEnJal8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354236644783-o8rn8i9uti7ethifbmd45kcddvlg4eqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
